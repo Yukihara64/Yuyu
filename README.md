@@ -2,13 +2,14 @@
 
 # 月腹ゆき
 ### *Tsukihara Yuki*
-(^・ω・^) coding at 3am again...
+
+`(^・ω・^) coding at 3am again...`
+
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com)
-[
+](https://linkedin.com) [
 
 ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -24,8 +25,8 @@
 
 </div>
 
-> 🌙 クラウド通信とリアルタイム3Dの狭間で戦術FPSを作っているパラグアイ人です。  
-> Computer Engineering student from Asunción, Paraguay 🇵🇾 — building a tactical hardcore FPS in Unity while juggling databases, rendering pipelines, and too much mate.  
+> 🌙 クラウド通信とリアルタイム3Dの狭間で戦術FPSを作っているパラグアイ人です。
+> Computer Engineering student from Asunción, Paraguay 🇵🇾 — building a tactical hardcore FPS in Unity while juggling databases, rendering pipelines, and too much mate.
 > Trilingual · Game Dev · Database nerd 🗄️
 
 ---
@@ -50,86 +51,76 @@
 
 ## ✦ Skills & Tools
 
-**🎮 3D & Game Dev**  
+**🎮 3D & Game Dev**
 
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-
-
+ 
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-
-
+ 
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 
 
-**💻 Languages**  
+**💻 Languages**
 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-
-
+ 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
-
+ 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 
 
-**☁️ Backend & Cloud**  
+**☁️ Backend & Cloud**
 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-
-
+ 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-
-
+ 
 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-
-
+ 
 
 ![CPaaS](https://img.shields.io/badge/CPaaS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 
 
-**🐧 Systems & DevOps**  
+**🐧 Systems & DevOps**
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-
-
+ 
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-
-
+ 
 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 
 
-**🔐 Security**  
+**🔐 Security**
 
 
 ![ISC2](https://img.shields.io/badge/ISC2_Candidate-00B388?style=flat-square&logo=isc2&logoColor=white)
 
-
-
+ 
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E34F26?style=flat-square&logo=hackthebox&logoColor=white)
 
@@ -160,9 +151,6 @@
 
 
 ![Paraguay](https://img.shields.io/badge/Made_in-Paraguay_🇵🇾-0038A8?style=for-the-badge)
-
-
-
 
 
 
